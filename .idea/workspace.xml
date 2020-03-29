@@ -2,59 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d31761be-c625-42db-b68e-7f4aaecbc602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bien_Kieudulie_Cautru_Vonglap/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bien_Kieudulie_Cautru_Vonglap/jv_4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bien_Kieudulie_Cautru_Vonglap/jv_4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bien_Kieudulie_Cautru_Vonglap/jv_4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_Java/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_Java/testCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_05/CheckOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_05/CheckPassFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_05/PrintDayInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_05/PrintNumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/testAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/testDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_07/testTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mang_Chuoi_Phuongthuc/Char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HinhVuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/NhapTuBanPhim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TaoMENU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_07/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_07/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_07/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_07/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_07/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/TestAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/TestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_12/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_13/CodeLeanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_13/CodeLeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_13/CodeLeanC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_13/CodeLeanE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_14/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_14/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_14/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_14/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/CL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/TestCricle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_15/TestCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/LineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/TestCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/TestLineSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_16/TestPoint2DPoint3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEW/PhuongTrinhBac2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/ArithmenticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Crazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/CricleComputation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Exampl1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Example2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/ExampleonLiterals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/HeeloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Khaibao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Lesson1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P_Tuan_Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/PrintTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/VD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/cachDatkieuDL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/hieuChanLe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/newVD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArithmenticTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Crazy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CricleComputation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exampl1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExampleonLiterals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeeloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Khaibao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cachDatkieuDL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hieuChanLe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P_Tuan_Java/Example_Java/testCircle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +84,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.PrintDayInWord">
-    <configuration name="CheckOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_05.CheckOddEven" />
+  <component name="RunManager" selected="Application.TestCylinder (1)">
+    <configuration name="TestBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_15.TestBook" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_05.*" />
+          <option name="PATTERN" value="Java_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPassFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_05.CheckPassFail" />
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_15.TestCircle" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_05.*" />
+          <option name="PATTERN" value="Java_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintDayInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_05.PrintDayInWord" />
+    <configuration name="TestCylinder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_16.TestCylinder" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_05.*" />
+          <option name="PATTERN" value="Java_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_05.PrintNumberInWord" />
+    <configuration name="TestCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_15.TestCylinder" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_05.*" />
+          <option name="PATTERN" value="Java_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaoMENU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TaoMENU" />
+    <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_12.TestTime" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="Java_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintDayInWord" />
-        <item itemvalue="Application.PrintNumberInWord" />
-        <item itemvalue="Application.CheckOddEven" />
-        <item itemvalue="Application.CheckPassFail" />
-        <item itemvalue="Application.TaoMENU" />
+        <item itemvalue="Application.TestCylinder (1)" />
+        <item itemvalue="Application.TestCylinder" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.TestBook" />
+        <item itemvalue="Application.TestTime" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +178,13 @@
       <workItem from="1584635193204" duration="614000" />
       <workItem from="1584721939257" duration="2611000" />
       <workItem from="1584753157412" duration="10148000" />
-      <workItem from="1584890999003" duration="5611000" />
+      <workItem from="1584890999003" duration="6346000" />
+      <workItem from="1584972868475" duration="6233000" />
+      <workItem from="1585011983439" duration="8337000" />
+      <workItem from="1585185245951" duration="7848000" />
+      <workItem from="1585228927762" duration="3166000" />
+      <workItem from="1585271493226" duration="3846000" />
+      <workItem from="1585497285127" duration="4032000" />
     </task>
     <servers />
   </component>
@@ -195,22 +192,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1584896768822">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1585275347827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584896768822" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1584896768822">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585275347827" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1585275347826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584896768822" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1584896768822">
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585275347826" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1585275347826">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584896768822" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1584896768822">
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585275347826" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1585275347827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584896768822" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585275347827" />
     <state width="492" height="258" key="GridCell.Tab.1.bottom" timestamp="1584594442442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -227,17 +224,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="492" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584594442441" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584408429490">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585497354832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584408429490" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585497354832" />
     <state x="799" y="174" key="run.anything.popup" timestamp="1584592531113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="799" y="174" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584592531113" />
-    <state x="890" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584892082068">
+    <state x="890" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585197601655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="890" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584892082068" />
+    <state x="890" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585197601655" />
   </component>
 </project>
