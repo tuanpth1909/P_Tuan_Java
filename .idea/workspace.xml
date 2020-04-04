@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d31761be-c625-42db-b68e-7f4aaecbc602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_19/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_19/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_19/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_19/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_19/TestMovable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_19/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE/EmployeeFullTIme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE/EmployeePartime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE/SalaryPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PRACTICE/TestSalaryPolicy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_19/TestShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_19/TestShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.TestMovable">
-    <configuration name="TestCylinder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_16.TestCylinder" />
-      <module name="P_Tuan_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestSalaryPolicy">
     <configuration name="TestInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NEW.TestInheritance" />
       <module name="P_Tuan_Java" />
@@ -100,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSalaryPolicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRACTICE.TestSalaryPolicy" />
+      <module name="P_Tuan_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PRACTICE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_18.TestShape" />
       <module name="P_Tuan_Java" />
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSalaryPolicy" />
         <item itemvalue="Application.TestMovable" />
         <item itemvalue="Application.TestMonster" />
         <item itemvalue="Application.TestShape" />
         <item itemvalue="Application.TestInheritance" />
-        <item itemvalue="Application.TestCylinder (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,10 @@
       <workItem from="1585577824509" duration="1836000" />
       <workItem from="1585616640288" duration="7472000" />
       <workItem from="1585711242265" duration="602000" />
-      <workItem from="1585745221933" duration="2285000" />
+      <workItem from="1585745221933" duration="2933000" />
+      <workItem from="1585793265903" duration="41000" />
+      <workItem from="1585793649688" duration="275000" />
+      <workItem from="1585962813538" duration="3513000" />
     </task>
     <servers />
   </component>
@@ -159,14 +161,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1585622524771">
+    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1585965526357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="958" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585622524771" />
+    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585965526357" />
     <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585628470130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585628470130" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585793924612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585793924612" />
     <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1585635960557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -199,10 +205,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585635960559" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585745241229">
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585793265490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585745241229" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585793265490" />
     <state x="209" y="39" key="new project wizard" timestamp="1585580059210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -215,5 +221,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="890" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585197601655" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java_19/TestShape.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
