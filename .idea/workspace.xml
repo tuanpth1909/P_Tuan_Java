@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d31761be-c625-42db-b68e-7f4aaecbc602" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListCollectionsSortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListObjectSortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListSortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListUserDefinedObjectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA2_492020/SearchElementInArrayListExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListIteratorRemoveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA2_492020/ArrayListIteratorRemoveExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,13 +47,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.TestSalaryPolicy">
-    <configuration name="TestInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NEW.TestInheritance" />
+  <component name="RunManager" selected="Application.ArrayListObjectSortExample">
+    <configuration name="ArrayListCollectionsSortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA2_492020.ArrayListCollectionsSortExample" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NEW.*" />
+          <option name="PATTERN" value="JAVA2_492020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMonster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_18.TestMonster" />
+    <configuration name="ArrayListObjectSortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA2_492020.ArrayListObjectSortExample" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_18.*" />
+          <option name="PATTERN" value="JAVA2_492020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMovable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_19.TestMovable" />
+    <configuration name="ArrayListSortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA2_492020.ArrayListSortExample" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_19.*" />
+          <option name="PATTERN" value="JAVA2_492020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSalaryPolicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRACTICE.TestSalaryPolicy" />
+    <configuration name="ArrayListUserDefinedObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA2_492020.ArrayListUserDefinedObjectExample" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PRACTICE.*" />
+          <option name="PATTERN" value="JAVA2_492020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_18.TestShape" />
+    <configuration name="SearchElementInArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA2_492020.SearchElementInArrayListExample" />
       <module name="P_Tuan_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_18.*" />
+          <option name="PATTERN" value="JAVA2_492020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSalaryPolicy" />
-        <item itemvalue="Application.TestMovable" />
-        <item itemvalue="Application.TestMonster" />
-        <item itemvalue="Application.TestShape" />
-        <item itemvalue="Application.TestInheritance" />
+        <item itemvalue="Application.ArrayListObjectSortExample" />
+        <item itemvalue="Application.ArrayListSortExample" />
+        <item itemvalue="Application.ArrayListCollectionsSortExample" />
+        <item itemvalue="Application.ArrayListUserDefinedObjectExample" />
+        <item itemvalue="Application.SearchElementInArrayListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +156,7 @@
       <workItem from="1585793649688" duration="275000" />
       <workItem from="1585962813538" duration="4149000" />
       <workItem from="1586393720731" duration="1081000" />
+      <workItem from="1586679728759" duration="4224000" />
     </task>
     <servers />
   </component>
@@ -157,10 +164,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1585965526357">
+    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1586682858425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585965526357" />
+    <state x="498" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586682858425" />
     <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585628470130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -169,22 +176,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586395357922" />
-    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1585966979497">
+    <state width="724" height="239" key="GridCell.Tab.0.bottom" timestamp="1586684247516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585966979497" />
-    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1585966979497">
+    <state width="724" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586684247516" />
+    <state width="724" height="239" key="GridCell.Tab.0.center" timestamp="1586684247515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585966979497" />
-    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1585966979497">
+    <state width="724" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586684247515" />
+    <state width="724" height="239" key="GridCell.Tab.0.left" timestamp="1586684247515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585966979497" />
-    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1585966979497">
+    <state width="724" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586684247515" />
+    <state width="724" height="239" key="GridCell.Tab.0.right" timestamp="1586684247516">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585966979497" />
+    <state width="724" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586684247516" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1585635960559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
