@@ -1,7 +1,7 @@
 package Assingnment;
 
-import Model.Student;
-import MyUtilities.Utility;
+import Student;
+import utinity;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,7 +11,7 @@ import java.util.List;
     public class Studentcontro {
         public List<Student> selectAllColumn() {
             try {
-                ResultSet resultSet = Utility.executeQuery("eStudent", "SELECT * FROM Student;");
+                ResultSet resultSet = utinity.executeQuery("eStudent", "SELECT * FROM Student;");
                 List<Student> lstStudent = new ArrayList<>();
                 while (resultSet.next()) {
                     Student student = new Student();
@@ -33,7 +33,7 @@ import java.util.List;
                     "VALUES ('" + item.getName() + "', '" + item.getAddress() + "', '" + item.getPhone() + "');";
             System.out.println("Câu query của bạn là: \n" +query);
 
-            int recordCount = Utility.executeUpdate("eStudent", query);
+            int recordCount = utinity.executeUpdate("eStudent", query);
             if (recordCount > 0) {
                 System.out.println("Thành công! Số bản ghi bị ảnh hưởng: " + recordCount);
             } else {
@@ -56,7 +56,7 @@ import java.util.List;
 
             System.out.println("Câu query của bạn là: \n" +query);
 
-            int recordCount = Utility.executeUpdate("eStudent", query);
+            int recordCount = utinity.executeUpdate("eStudent", query);
             if (recordCount > 0) {
                 System.out.println("Thành công! Số bản ghi bị ảnh hưởng: " + recordCount);
             } else {

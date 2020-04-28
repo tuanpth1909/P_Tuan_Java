@@ -1,8 +1,8 @@
 package Assingnment;
 
-import Controller.StudentController;
-import Model.Student;
-import MyUtilities.Utility;
+import Studentcontro;
+import Student;
+import utinity;
 
 import java.util.List;
 
@@ -16,7 +16,7 @@ public class StudentView {
                         "| 3. Save                              |\n" +
                         "| 0. Exit                              |\n" +
                         "  => Bạn chọn: ");
-                int chose = Utility.getInputInt();
+                int chose = utinity.getInputInt();
                 System.out.println(" _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ");
 
                 switch (chose) {
@@ -45,26 +45,26 @@ public class StudentView {
         System.out.println("Mời nhập các thông tin cho sinh viên: ");
 
         System.out.print("Name: ");
-        String Name = Utility.getInputLine();
+        String Name = utinity.getInputLine();
         student.setName(Name);
 
         System.out.print("Address: ");
-        String Address = Utility.getInputLine();
+        String Address = utinity.getInputLine();
         student.setAddress(Address);
 
         System.out.print("Phone: ");
-        String Phone = Utility.getInputLine();
+        String Phone = utinity.getInputLine();
         student.setPhone(Phone);
 
-        if (Utility.isConfirm("Xác nhận thêm 1 bản ghi? ")) {
-            StudentController studentController = new StudentController();
+        if (utinity.isConfirm("Xác nhận thêm 1 bản ghi? ")) {
+            Studentcontro studentController = new Studentcontro();
             studentController.insertItem(student);
             System.out.println("Thêm thành công");
         }
     }
 
     private static void viewStudent() {
-        StudentController studentController = new StudentController();
+        Studentcontro studentController = new Studentcontro();
         List<Student> lstStudent = studentController.selectAllColumn();
 
         System.out.println("Danh sach sinh vien: ");
