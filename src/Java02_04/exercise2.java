@@ -5,14 +5,7 @@ import java.util.Scanner;
 
 public class exercise2 {
 
-    public static void main(String[] args) {
-//        exercises2_1();
-//        exercises2_2();
-//        exercises2_3();
-//        exercises2_4();
-//            exercises2_5();
-        exercises2_6();
-    }
+
 
     public static void exercises2_1() {
         try (
@@ -24,7 +17,7 @@ public class exercise2 {
                         "root",
                         "");
                 Statement statement = connection.createStatement();
-        ) {
+        ){
             String strSelect = "select ContactName from customers";
             ResultSet resultSet = statement.executeQuery(strSelect);
             int i = 0;
@@ -283,5 +276,13 @@ public class exercise2 {
         }
     }
 
+    public static void main(String[] args) {
+//        exercises2_1();
+//        exercises2_2();
+//        exercises2_3();
+       exercises2_4();
+//        exercises2_5();
+//        exercises2_6();
+    }
 
 }
