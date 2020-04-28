@@ -43,4 +43,8 @@ public class Student {
     public void setPhone(String phone) {
         Phone = phone;
     }
+    @Override
+    public String toString() {
+        return String.format("%-5s %-30s %-30s %-15s", IDStudent, Name, Address, Phone);
+    }
 }

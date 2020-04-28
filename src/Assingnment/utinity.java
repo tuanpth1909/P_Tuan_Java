@@ -11,15 +11,6 @@ import java.util.Scanner;
     public class utinity {
         //region DataBase_Methods
 
-        /**
-         * <b>Hiếu iceTea 22/04/2020</b> <br>
-         * <b>Lấy dữ liệu từ DataBase</b> <br>
-         *
-         * @param database Tên của cơ sở dữ liệu
-         * @param query    Câu lệnh truy vấn
-         * @return Trả về ResultSet
-         * @author Hiếu
-         */
         public static ResultSet executeQuery(String database, String query) {
             try {
                 Connection connection = DriverManager.getConnection(
@@ -40,15 +31,6 @@ import java.util.Scanner;
             return null;
         }
 
-        /**
-         * <b>Hiếu iceTea 22/04/2020</b> <br>
-         * <b>Cập nhật dữ liệu trong DataBase</b> <br>
-         *
-         * @param database Tên của cơ sở dữ liệu
-         * @param query    Câu lệnh truy vấn
-         * @return Trả về số bản ghi bị ảnh hưởng
-         * @author Hiếu
-         */
         public static int executeUpdate(String database, String query) {
             try (
                     Connection connection = DriverManager.getConnection(
@@ -68,38 +50,24 @@ import java.util.Scanner;
             }
             return -1;
         }
-        //endregion
 
-        //region Input Methods
-
-        /**
-         * @return <b>Trả về số kiểu INT nhập vào từ bàn phím của console</b>
-         */
         public static int getInputInt() {
             Scanner scanner = new Scanner(System.in);
             return scanner.nextInt();
         }
 
-        /**
-         * @return <b>Trả về số kiểu double nhập vào từ bàn phím của console</b>
-         */
         public static double getInputDouble() {
             Scanner scanner = new Scanner(System.in);
             return scanner.nextDouble();
         }
 
-        /**
-         * @return Chuổi String do người dùng nhập vào từ bàn phím của console
-         */
+
         public static String getInputLine() {
             Scanner scanner = new Scanner(System.in);
             return scanner.nextLine();
         }
 
-        /**
-         * <b>Hiếu iceTea 2020</b> <br>
-         * <b>Nhắc người dùng và xác nhận nhấn ENTER để tiếp tục</b>
-         */
+
         public static void pause_PressEnterToContinue() {
             System.out.println("\n\tNhấn phím [Enter] để tiếp tục...");
             try {
@@ -111,12 +79,6 @@ import java.util.Scanner;
             }
         }
 
-        /**
-         * <b>Hiện thị thông báo kèm nội dung xác nhận 1 task</b>
-         *
-         * @param message Nội dung muốn hiện thị
-         * @return {@code true} nếu người dùng xác nhận <br> {@code false} nếu người dùng KHÔNG xác nhận
-         */
         public static boolean isConfirm(String message) {
             System.out.print(message + " [Y/N]: ");
             while (true) {
